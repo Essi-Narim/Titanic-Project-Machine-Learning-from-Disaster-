@@ -47,3 +47,8 @@ We'll also build an MLP classifier using SKLEARN. This will involve defining the
 
 ## Conclusion
 This project provides a comprehensive walkthrough of the data science, machine learning, and deep learning processes. By following these steps and experimenting with various techniques, we aim to create accurate and robust models for predicting the survival of individuals on the Titanic.
+
+## Acknowledgments
+
+- I would like to thank [Kaggle](https://www.kaggle.com/) for providing the Titanic dataset for this project.
+- Special thanks to [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) and [DS Novice](https://www.youtube.com/c/DSNovice) for their valuable advice and assistance throughout the project.
